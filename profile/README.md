@@ -9,4 +9,4 @@ Key Links:
 * [Discord Community](https://discord.gg/wYxTwym)
 * [Live Docs](https://docs.photonvision.org/en/latest/)
 
-If you are interested in contributing code or documentation to the project, please read [our getting started page for contributors.](https://docs.photonvision.org/en/latest/docs/contributing/index.html)
+If you are interested in contributing code or documentation to the project, please read [our getting started page for contributors](https://docs.photonvision.org/en/latest/docs/contributing/index.html) and [our code of conduct.](https://github.com/PhotonVision/.github/blob/master/codeofcoduct.md)
